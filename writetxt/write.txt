@@ -1,0 +1,12 @@
+
+Today is 2018/07/14 11:38:50
+
+Today is 14Sat/07Jul/2018 11:39:23
+
+Today is Sat 14, Jul, 2018 11:39:49
+
+Today is Sat, 14 - Jul - 2018 11:40:11
+
+Today is Sat, 14 - Jul - 2018 23:40:51
+
+Today is Sat, 14 - Jul - 2018 23:41:42 and default time zone is: Asia/Calcutta
