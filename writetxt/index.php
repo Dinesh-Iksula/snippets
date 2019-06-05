@@ -1,6 +1,6 @@
 <?php
 
-echo $data = "Today is " . date("D, d - M - Y H:i:s") . " and default time zone is: " . date_default_timezone_get();
+echo $data = 'Today is '.date('D, d - M - Y H:i:s').' and default time zone is: '.date_default_timezone_get();
 
 $data = PHP_EOL.$data.PHP_EOL;
 
